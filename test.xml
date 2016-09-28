@@ -2,18 +2,8 @@
 	<asd>
 		<sadasd>
 
-			asdnalskdanklasndfkansfknaknsfkanfks
-			    git url : 'https://github.com/railstutorial/rails_with_test.git'
+	
 
-    stage name : 'build'
-    echo '................................................'
-    sh 'docker build -t rails_test . '
-    
-    stage name : "test"
-    echo '................................................'
-    sh 'docker run -t rails-test''
-
-    
 			asdnalskdanklasndfkansfknaknsfkanfks
 			    git url : 'https://github.com/railstutorial/rails_with_test.git'
 
